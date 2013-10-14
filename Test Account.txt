@@ -1,0 +1,5 @@
+Under Testing please use following bank card£º 
+Bank£ºChina Merchant Bank
+Type of Card£ºPrepaid Card
+Card No.£º6226440123456785 
+Password£º111101
